@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zbIzEaAYaRct2pNwhKYzzwi3ghTybHbWDEzM1YFuy1wCzvHSGqFDjRuXmFgfBgIKq46al7xdLHRcLebc7eYSlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ugroz\\source\\repos\\WALL\\Wall.Discount.Entity\\Wall.Discount.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugroz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ugroz\\.nuget\\packages\\mongodb.bson\\2.11.5\\mongodb.bson.2.11.5.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

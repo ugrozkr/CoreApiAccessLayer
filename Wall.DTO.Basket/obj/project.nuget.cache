@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8AritNJTIzHBnx64EKfvxkvYtVZp1NAmKKHIs8EITzPGqqokNiCpzVm0PD0SfjwbL8WKl5LtO1zeBWWKidBTQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ugroz\\source\\repos\\Wall.DTO.Basket\\Wall.DTO.Basket.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugroz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

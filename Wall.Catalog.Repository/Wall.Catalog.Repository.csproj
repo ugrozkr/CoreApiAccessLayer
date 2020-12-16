@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wall.Catalog.Entity\Wall.Catalog.Entity.csproj" />
+    <ProjectReference Include="..\Wall.Catalog.Repository.Interface\Wall.Catalog.Repository.Interface.csproj" />
+    <ProjectReference Include="..\Wall.Service.DataAccessLayer\Wall.Service.DataAccessLayer.csproj" />
+    <ProjectReference Include="..\Wall.Service.DependencyResolver\Wall.Service.DependencyResolver.csproj" />
+    <ProjectReference Include="..\Wall.Service.Repository\Wall.Service.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

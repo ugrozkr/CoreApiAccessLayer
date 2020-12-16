@@ -1,0 +1,31 @@
+version: '3.4'
+
+services:
+
+  sqldata:
+    image: mcr.microsoft.com/mssql/server:2017-latest
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=1234
+
+  wall.basket.api:
+    image: ${DOCKER_REGISTRY-}wallbasketapi
+    build:
+      context: .
+      dockerfile: WALL.Basket.API/Dockerfile
+
+  wall.catalog.api:
+    image: ${DOCKER_REGISTRY-}wallcatalogapi
+    build:
+      context: .
+      dockerfile: WALL.Catalog.API/Dockerfile
+    depends_on:
+      - sqldata
+
+
+  wall.discount.api:
+    image: ${DOCKER_REGISTRY-}walldiscountapi
+    build:
+      context: .
+      dockerfile: WALL.Discount.API/Dockerfile
+

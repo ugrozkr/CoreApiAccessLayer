@@ -1,0 +1,9 @@
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\bin\Debug\netstandard2.0\Wall.Integration.Messages.deps.json
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\bin\Debug\netstandard2.0\Wall.Integration.Messages.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\bin\Debug\netstandard2.0\Wall.Integration.Messages.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\obj\Debug\netstandard2.0\Wall.Integration.Messages.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\obj\Debug\netstandard2.0\Wall.Integration.Messages.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\obj\Debug\netstandard2.0\Wall.Integration.Messages.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\obj\Debug\netstandard2.0\Wall.Integration.Messages.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\obj\Debug\netstandard2.0\Wall.Integration.Messages.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Integration.Messages\obj\Debug\netstandard2.0\Wall.Integration.Messages.csprojAssemblyReference.cache

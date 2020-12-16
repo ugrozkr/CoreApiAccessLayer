@@ -1,0 +1,17 @@
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\bin\Debug\netstandard2.1\Wall.Service.DependencyResolver.deps.json
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\bin\Debug\netstandard2.1\Wall.Service.DependencyResolver.dll
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\bin\Debug\netstandard2.1\Wall.Service.DependencyResolver.pdb
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.dll
+C:\Users\ugroz\source\repos\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\bin\Debug\netstandard2.1\Wall.Service.DependencyResolver.deps.json
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\bin\Debug\netstandard2.1\Wall.Service.DependencyResolver.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\bin\Debug\netstandard2.1\Wall.Service.DependencyResolver.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Service.DependencyResolver\obj\Debug\netstandard2.1\Wall.Service.DependencyResolver.csprojAssemblyReference.cache

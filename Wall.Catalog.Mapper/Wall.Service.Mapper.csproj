@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Wall.Basket.DTO\Wall.Basket.DTO.csproj" />
+    <ProjectReference Include="..\Wall.Basket.Entity\Wall.Basket.Entity.csproj" />
+    <ProjectReference Include="..\WALL.Catalog.DTO\WALL.Catalog.DTO.csproj" />
+    <ProjectReference Include="..\Wall.Catalog.Entity\Wall.Catalog.Entity.csproj" />
+  </ItemGroup>
+
+</Project>

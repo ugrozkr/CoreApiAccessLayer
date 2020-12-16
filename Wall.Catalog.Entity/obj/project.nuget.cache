@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MBVf+amm4to3OSfeWN+tpkCAo4nLVfjVJOh8xuSr9a8/myVhO2c7frhwVZjAobDz4h7CMpAljk9eCsmSP0sHMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ugroz\\source\\repos\\WALL\\Wall.Catalog.Entity\\Wall.Catalog.Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ugroz\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ugroz\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

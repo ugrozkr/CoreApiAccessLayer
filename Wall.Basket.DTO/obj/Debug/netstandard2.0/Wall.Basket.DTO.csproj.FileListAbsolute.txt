@@ -1,0 +1,17 @@
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\bin\Debug\netstandard2.0\Wall.Basket.DTO.deps.json
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\bin\Debug\netstandard2.0\Wall.Basket.DTO.dll
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\bin\Debug\netstandard2.0\Wall.Basket.DTO.pdb
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.dll
+C:\Users\ugroz\source\repos\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\bin\Debug\netstandard2.0\Wall.Basket.DTO.deps.json
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\bin\Debug\netstandard2.0\Wall.Basket.DTO.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\bin\Debug\netstandard2.0\Wall.Basket.DTO.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.DTO\obj\Debug\netstandard2.0\Wall.Basket.DTO.csprojAssemblyReference.cache

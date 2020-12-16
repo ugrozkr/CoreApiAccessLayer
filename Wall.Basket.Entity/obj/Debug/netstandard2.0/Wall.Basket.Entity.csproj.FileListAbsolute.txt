@@ -1,0 +1,16 @@
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\bin\Debug\netstandard2.0\Wall.Basket.Entity.deps.json
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\bin\Debug\netstandard2.0\Wall.Basket.Entity.dll
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\bin\Debug\netstandard2.0\Wall.Basket.Entity.pdb
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.dll
+C:\Users\ugroz\source\repos\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\bin\Debug\netstandard2.0\Wall.Basket.Entity.deps.json
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\bin\Debug\netstandard2.0\Wall.Basket.Entity.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\bin\Debug\netstandard2.0\Wall.Basket.Entity.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Basket.Entity\obj\Debug\netstandard2.0\Wall.Basket.Entity.pdb

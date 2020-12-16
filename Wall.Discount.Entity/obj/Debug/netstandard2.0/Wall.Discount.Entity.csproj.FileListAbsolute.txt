@@ -1,0 +1,16 @@
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\bin\Debug\netstandard2.0\Wall.Discount.Entity.deps.json
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\bin\Debug\netstandard2.0\Wall.Discount.Entity.dll
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\bin\Debug\netstandard2.0\Wall.Discount.Entity.pdb
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.dll
+C:\Users\ugroz\source\repos\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\bin\Debug\netstandard2.0\Wall.Discount.Entity.deps.json
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\bin\Debug\netstandard2.0\Wall.Discount.Entity.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\bin\Debug\netstandard2.0\Wall.Discount.Entity.pdb
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.dll
+C:\Users\ugroz\source\repos\WALL\Wall.Discount.Entity\obj\Debug\netstandard2.0\Wall.Discount.Entity.pdb

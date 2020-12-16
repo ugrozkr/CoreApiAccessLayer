@@ -1,0 +1,85 @@
+version: '3.4'
+
+services:
+  wall.basket.api:
+    image: wallbasketapi:dev
+    container_name: WALL.Basket.API
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WALL.Basket.API"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_wall.basket.api$
+    volumes:
+      - C:\Users\ugroz\source\repos\WALL\WALL.Basket.API:/app
+      - C:\Users\ugroz\source\repos\WALL:/src
+      - C:\Users\ugroz\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_wall.basket.api$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_wall.basket.api$ \"/app/bin/Debug/netcoreapp3.1/WALL.Basket.API.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+  wall.catalog.api:
+    image: wallcatalogapi:dev
+    container_name: WALL.Catalog.API
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WALL.Catalog.API"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_wall.catalog.api$
+    volumes:
+      - C:\Users\ugroz\source\repos\WALL\WALL.Catalog.API:/app
+      - C:\Users\ugroz\source\repos\WALL:/src
+      - C:\Users\ugroz\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_wall.catalog.api$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_wall.catalog.api$ \"/app/bin/Debug/netcoreapp3.1/WALL.Catalog.API.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  wall.discount.api:
+    image: walldiscountapi:dev
+    container_name: WALL.Discount.API
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WALL.Discount.API"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_wall.discount.api$
+    volumes:
+      - C:\Users\ugroz\source\repos\WALL\WALL.Discount.API:/app
+      - C:\Users\ugroz\source\repos\WALL:/src
+      - C:\Users\ugroz\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_wall.discount.api$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_wall.discount.api$ \"/app/bin/Debug/netcoreapp3.1/WALL.Discount.API.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

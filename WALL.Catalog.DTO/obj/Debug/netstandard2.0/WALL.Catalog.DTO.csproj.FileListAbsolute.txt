@@ -1,0 +1,17 @@
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\bin\Debug\netstandard2.0\WALL.Catalog.DTO.deps.json
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\bin\Debug\netstandard2.0\WALL.Catalog.DTO.dll
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\bin\Debug\netstandard2.0\WALL.Catalog.DTO.pdb
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.dll
+C:\Users\ugroz\source\repos\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.pdb
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\bin\Debug\netstandard2.0\WALL.Catalog.DTO.deps.json
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\bin\Debug\netstandard2.0\WALL.Catalog.DTO.dll
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\bin\Debug\netstandard2.0\WALL.Catalog.DTO.pdb
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.AssemblyInfoInputs.cache
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.AssemblyInfo.cs
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.dll
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.pdb
+C:\Users\ugroz\source\repos\WALL\WALL.Catalog.DTO\obj\Debug\netstandard2.0\WALL.Catalog.DTO.csprojAssemblyReference.cache
